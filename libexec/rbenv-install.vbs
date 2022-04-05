@@ -327,7 +327,7 @@ Sub installDevKit(cur)
     Dim dev
     Dim idx
     If cur(4) = "bundled" Then
-        objws.Run """" & cur(1) & "\bin\ridk.cmd"" install 3", 1 , true
+        objws.Run """" & cur(1) & "\bin\ridk.cmd"" install 2 3", 1 , true
     Else
         For Each list In listDevKit
             If list(0) = cur(4) Then
