@@ -51,6 +51,8 @@ listEnv = Array(_
     Array("2.7.1-x64"        ,"https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-2.7.1-1/","rubyinstaller-2.7.1-1-x86.7z" ,"bundled"),_
     Array("2.7.0-i386"       ,"https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-2.7.0-1/","rubyinstaller-2.7.0-1-x86.7z" ,"bundled"),_
     Array("2.7.0-x64"        ,"https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-2.7.0-1/","rubyinstaller-2.7.0-1-x86.7z" ,"bundled"),_
+    Array("2.6.9-i386"       ,"https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-2.6.9-1/","rubyinstaller-2.6.9-1-x86.7z" ,"bundled"),_
+    Array("2.6.9-x64"        ,"https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-2.6.9-1/","rubyinstaller-2.6.9-1-x64.7z" ,"bundled"),_
     Array("2.6.6-i386"       ,"https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-2.6.6-1/","rubyinstaller-2.6.6-1-x86.7z" ,"bundled"),_
     Array("2.6.6-x64"        ,"https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-2.6.6-1/","rubyinstaller-2.6.6-1-x64.7z" ,"bundled"),_
     Array("2.6.4-i386"       ,"https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-2.6.4-1/","rubyinstaller-2.6.4-1-x86.7z" ,"bundled"),_
@@ -154,6 +156,8 @@ listEnv_i386 = Array( _
     Array("2.7.1-x64"        ,"https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-2.7.1-1/","rubyinstaller-2.7.1-1-x64.7z" ,"bundled"),_
     Array("2.7.0"            ,"https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-2.7.0-1/","rubyinstaller-2.7.0-1-x86.7z" ,"bundled"),_
     Array("2.7.0-x64"        ,"https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-2.7.0-1/","rubyinstaller-2.7.0-1-x64.7z" ,"bundled"),_
+    Array("2.6.9"            ,"https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-2.6.9-1/","rubyinstaller-2.6.9-1-x86.7z" ,"bundled"),_
+    Array("2.6.9-x64"        ,"https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-2.6.9-1/","rubyinstaller-2.6.9-1-x64.7z" ,"bundled"),_
     Array("2.6.6"            ,"https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-2.6.6-1/","rubyinstaller-2.6.6-1-x86.7z" ,"bundled"),_
     Array("2.6.6-x64"        ,"https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-2.6.6-1/","rubyinstaller-2.6.6-1-x64.7z" ,"bundled"),_
     Array("2.6.4"            ,"https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-2.6.4-1/","rubyinstaller-2.6.4-1-x86.7z" ,"bundled"),_
